@@ -1,11 +1,20 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body>
-    Hello World!
-</body>
-</html>
+# README 페이지
+## 제목 2
+### 제목 3
+#### 제목 4
+*글씨 굵게*
+- 리스트1
+- 리스트2
+
+1. 순서
+2. 순서
+
+| 테이블 | 테스트 |
+| - | - |
+| 이름 | 김유강 |
+| 학년 | 3학년 |
+
+```text
+```
+- [x] 할일 1
+- [] 할일 2
